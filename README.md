@@ -1,2 +1,5 @@
-# test
-this is day 1 project
+## Title 
+## This is my project
+
+this is just a small paragraph
+
